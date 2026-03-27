@@ -1,6 +1,6 @@
 # Hola, soy Quevi Alvarado 👋
 
-Estudiante de 8vo semestre de **Ingeniería en Sistemas y Ciencias de la Computación** en la Universidad Mariano Gálvez de Guatemala. Me enfoco en desarrollo web Frontend y cuento con experiencia en soporte técnico desde 2012.
+Estudiante de 9no semestre de **Ingeniería en Sistemas y Ciencias de la Computación** en la Universidad Mariano Gálvez de Guatemala. Me enfoco en desarrollo web Frontend y cuento con experiencia en soporte técnico desde 2012.
 
 ---
 
