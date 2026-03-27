@@ -16,7 +16,7 @@ Estudiante de 9no semestre de **Ingeniería en Sistemas y Ciencias de la Computa
 
 ## 📌 Sobre mí
 
-- 📍 Guatemala · Zona Metropolitana (Zona 7, 11, 9, 12, Mixco, San Juan Sacatepéquez)
+- 📍 Guatemala · San Juan Sacatepequez
 - 🎯 Buscando mi primer trabajo como **Desarrollador Frontend Junior**
 - 📚 Actualmente repasando y mejorando mis habilidades de diseño web
 - 🖥️ Técnico de soporte de computadoras desde 2012
